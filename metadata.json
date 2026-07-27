@@ -1,0 +1,6 @@
+{
+  "name": "Artisan Coffee House",
+  "description": "A clean, modern coffee shop website with a refined menu, interactive table reservation system, custom coffee builder, and location details.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
